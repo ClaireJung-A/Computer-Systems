@@ -1,0 +1,28 @@
+Aimi Sekiguchi
+JHED: asekigu1
+Contributions: Code cleanup, README, writing tests, following functions:
+fixedpoint_create_from_hex
+fixedpoint_negate
+fixedpoint_add
+fixedpoint_sub
+fixedpoint_halve
+fixedpoint_double
+fixedpoint_compare
+
+
+Claire Jung
+JHED: yjung18
+Contributions: Valgrind, writing tests, following functions:
+fixedpoint_format_as_hex
+fixedpoint_create
+fixedpoint_create2
+fixedpoint_whole_part
+fixedpoint_frac_part
+fixedpoint_is_zero
+fixedpoint_is_err
+fixedpoint_is_neg
+fixedpoint_is_overflow_neg
+fixedpoint_is_overflow_pos
+fixedpoint_is_underflow_neg
+fixedpoint_is_underflow_pos
+fixedpoint_is_valid

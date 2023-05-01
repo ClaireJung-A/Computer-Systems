@@ -1,0 +1,14 @@
+---
+:id: 133555287
+:submitters:
+- :name: Aimi Sekiguchi
+  :email: asekigu1@jhu.edu
+- :name: Claire Jung
+  :email: yjung18@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-14 02:05:55.529579000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-13 19:05:55.529579000 Z
+:status: processed
+:score: 66.0
