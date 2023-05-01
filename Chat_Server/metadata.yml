@@ -1,0 +1,12 @@
+---
+:id: 155727484
+:submitters:
+- :name: Claire Jung
+  :email: yjung18@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-01-16 02:50:27.534134000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-01-15 18:50:27.534134000 Z
+:status: processed
+:score: 95.0
